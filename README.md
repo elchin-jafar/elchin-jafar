@@ -30,4 +30,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elchin-jafar&layout=donut&theme=city_lights)](https://github.com/elchin-jafar/github-readme-stats)
 
-[![committers.top badge](https://user-badge.committers.top/azerbaijan/USERNAME.svg)](https://user-badge.committers.top/azerbaijan/USERNAME)
+![badge](https://aktive.kerolloz.dev/azerbaijan/elchin-jafar?label=Most%20Active%20GitHub%20User%20In%20Azerbaijan&labelColor=white&rnkPrefix=Rank%20)
